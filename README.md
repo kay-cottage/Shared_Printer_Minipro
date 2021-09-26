@@ -37,6 +37,6 @@ align=center>
 * 关闭客户端程序，即断开连接下线，微信小程序端也不会下拉刷新到您的打印服务
 
 
-
+## 小程序请见
 <img src="https://mmbiz.qpic.cn/mmbiz_jpg/QsUWqPChJWY8I5AsoW8j1lIThuibf4YqV8KFlUmiaGVswt4mlCAoxUNZ1avthhtCiamicjuQsgniaZDc4XEH0kx0QvA/0?wx_fmt=jpeg" width = "200" height = "200" 
 align=center>
