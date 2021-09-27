@@ -53,7 +53,7 @@ align=center>
 
 
 ## 资源补充：
-x64版本安装包网盘链接为：https://pan.baidu.com/s/1Z3IHQlBf6cKolt1jbcdzow 提取码：simt）
+x64版本安装包网盘链接为：https://pan.baidu.com/s/1Z3IHQlBf6cKolt1jbcdzow 提取码：simt
 
 
 Github下载地址：https://github.com/kay-cottage/Shared_Printer_Minipro/releases/download/Shared_Printer_Minipro_Client_V1.0_x64/Printer_Client_v1.0.exe
