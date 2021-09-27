@@ -1,4 +1,10 @@
-# coding:utf-8
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Sep 24 09:12:41 2021
+
+@author: kayak
+"""
+
 import sys
 from PyQt5 import QtWidgets, QtCore, QtGui
 from PyQt5.QtGui import *
