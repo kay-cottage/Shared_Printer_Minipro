@@ -32,8 +32,7 @@ align=center>
 
 ## 如何使用该软件?
 
-1.您可以在windows x64的操作系统上直接从百度网盘或者releases处下载该软件对应版本的安装包，解压或者安装直接点击使用。（x64版本安装包网盘链接为：https://pan.baidu.com/s/1Z3IHQlBf6cKolt1jbcdzow 
-提取码：simt）
+1.您可以在windows x64的操作系统上直接从百度网盘或者releases处下载该软件对应版本的安装包，解压或者安装直接点击使用。
 
 
 
@@ -47,9 +46,17 @@ align=center>
 4. 打印机的上下线情况，用户均可即时在小程序看到打印设备的上下线情况。
 
 ## 注意事项
-* 请勿在开启VPN全局代理模式下使用，否则可能会出现连接失败报错等问题）
+* 请勿在开启VPN全局代理模式下使用，否则可能会出现连接失败报错等问题
 * 安装至开机自启动目录过程中，部分杀毒软件可能会阻止，选择解除阻止即可安装
 * 关闭客户端程序，即断开连接下线，微信小程序端也不会下拉刷新到您的打印服务
+
+
+
+## 资源补充：
+x64版本安装包网盘链接为：https://pan.baidu.com/s/1Z3IHQlBf6cKolt1jbcdzow 提取码：simt）
+
+
+Github下载地址：https://github.com/kay-cottage/Shared_Printer_Minipro/releases/download/Shared_Printer_Minipro_Client_V1.0_x64/Printer_Client_v1.0.exe
 
 
 ## 小程序请见
